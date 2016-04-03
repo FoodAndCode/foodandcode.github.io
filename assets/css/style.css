@@ -411,12 +411,12 @@
 		color: white;
 		cursor: pointer;
 		display: inline-block;
-		padding: 0.80em 2em;
+		padding: 0.20em 2em;
 		text-align: center;
 		text-decoration: none;
 		font-size: 1.4em;
 		font-weight: 600;
-		min-width: 10em;
+		min-width: 4em;
 	}
 
 		input[type="submit"]:hover,
