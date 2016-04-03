@@ -1,0 +1,4 @@
+name: Food&Code
+description: Food&Code HQ, where the magic happens.
+paginate: 10
+baseurl: '/foodAndCode'
