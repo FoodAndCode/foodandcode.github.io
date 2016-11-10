@@ -1,0 +1,47 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Our Aim
+  url: "/manifestro/"
+  side: left
+
+- title: Events
+  side: left
+  dropdown:
+  - title: "F&C#1 - The Udon Process"
+    url: "/event/fc1_udon_process"
+  - title: "F&C#2 - Okokokonomiyaki"
+    url: "/event/fc2_okokokonomiyaki/"
+  - title: "F&C#3 - MotherBoard Russia"
+    url: "/event/fc3_motherboard_russia/"
+
+#- title: Projects
+#  url: "/project/"
+#  side: left
+#  dropdown:
+#  - title: "tst1"
+#    url: "/project/tst1"
+#  - title: "tst1"
+#    url: "/project/tst1"
+
+#- title: Shop
+#  url: "/shop/"
+#  side: left
+
+- title: Organising a F&C
+  url: "/orga/"
+  side: right
+
+- title: The F&C Team
+  url: "/team/"
+  side: right
+
+- title: About/Contact
+  url: "/about/"
+  side: right
+
+#- title: "Search"
+#  url: "/search/"
+#  side: right
+

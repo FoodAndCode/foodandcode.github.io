@@ -1,0 +1,13 @@
+- menu_name: "From the team"
+
+- name: "Alicia Veron"
+  url: "https://www.instagram.com/aliciamarch/"
+  class: "network-entypo"
+  title: "Alicia Veron"
+
+- name: "Roman Miletitch"
+  url: "http://www.aporagen.com/"
+  class: "services-newsletter"
+  title: "Roman Miletitch"
+
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://shannon.ulb.ac.be/foodcode/</id>
+	<title>Food&amp;Code</title>
+	<updated>2016-11-10T18:08:19+01:00</updated>
+
+	<subtitle>Food&amp;Code is a digital art workshop and expo centered around food and cooking. Don&#39;t be afraid of being messy, we&#39;re here to clean.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Roman Miletitch</name>
+			
+			
+			
+				<uri>http://aporagen.com/</uri>
+			
+		</author>
+	
+
+	<link href="http://shannon.ulb.ac.be/foodcode/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://shannon.ulb.ac.be/foodcode/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.0.1">Jekyll</generator>
+
+	
+</feed>
