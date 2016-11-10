@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://www.foodcode.com/</id>
+	<id>http://foodandcode.github.io//</id>
 	<title>Food&amp;Code</title>
-	<updated>2016-11-10T18:30:52+01:00</updated>
+	<updated>2016-11-10T18:32:58+01:00</updated>
 
 	<subtitle>Food&amp;Code is a digital art workshop and expo centered around food and cooking. Don&#39;t be afraid of being messy, we&#39;re here to clean.</subtitle>
 
@@ -21,8 +21,8 @@
 		</author>
 	
 
-	<link href="http://www.foodcode.com/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://www.foodcode.com/" rel="alternate" type="text/html" />
+	<link href="http://foodandcode.github.io//atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://foodandcode.github.io//" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.0.1">Jekyll</generator>
 

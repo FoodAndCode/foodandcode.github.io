@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://www.foodcode.com/sitemap.xml
+Sitemap: http://foodandcode.github.io//sitemap.xml

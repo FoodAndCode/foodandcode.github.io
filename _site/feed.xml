@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://www.foodcode.com/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="http://www.foodcode.com/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="http://foodandcode.github.io//assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://foodandcode.github.io//assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Food&amp;Code</title>
 		<description>Food&amp;Code is a digital art workshop and expo centered around food and cooking. Don&#39;t be afraid of being messy, we&#39;re here to clean.</description>
-		<link>http://www.foodcode.com/</link>
-		<atom:link href="http://www.foodcode.com/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://foodandcode.github.io//</link>
+		<atom:link href="http://foodandcode.github.io//feed.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>

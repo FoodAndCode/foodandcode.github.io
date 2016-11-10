@@ -5,24 +5,9 @@
 
 	
 	<url>
-	<loc>http://www.foodcode.com/404.html</loc>
+	<loc>http://foodandcode.github.io//404.html</loc>
 	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://www.foodcode.com/about/</loc>
-	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -35,9 +20,9 @@
 
 	
 	<url>
-	<loc>http://www.foodcode.com/blog/archive/</loc>
+	<loc>http://foodandcode.github.io//about/</loc>
 	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -49,12 +34,10 @@
 	
 
 	
-
-	
 	<url>
-	<loc>http://www.foodcode.com/atom.xml</loc>
+	<loc>http://foodandcode.github.io//blog/archive/</loc>
 	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,208 +52,9 @@
 
 	
 	<url>
-	<loc>http://www.foodcode.com/event/fc1_udon_process/</loc>
+	<loc>http://foodandcode.github.io//atom.xml</loc>
 	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://www.foodcode.com/event/fc2_okokokonomiyaki/</loc>
-	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://www.foodcode.com/event/fc3_motherboard_russia/</loc>
-	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://www.foodcode.com/feed.xml</loc>
-	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://www.foodcode.com/humans.txt</loc>
-	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://www.foodcode.com/blog/</loc>
-	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://www.foodcode.com/</loc>
-	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://www.foodcode.com/kittens/</loc>
-	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://www.foodcode.com/orga/</loc>
-	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://www.foodcode.com/manifestro/</loc>
-	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://www.foodcode.com/redirect-page/</loc>
-	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://www.foodcode.com/robots.txt</loc>
-	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://www.foodcode.com/search/</loc>
-	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://www.foodcode.com/sitemap.xml</loc>
-	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -285,9 +69,225 @@
 
 	
 	<url>
-	<loc>http://www.foodcode.com/team/</loc>
+	<loc>http://foodandcode.github.io//event/fc1_udon_process/</loc>
 	
-		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://foodandcode.github.io//event/fc2_okokokonomiyaki/</loc>
+	
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://foodandcode.github.io//event/fc3_motherboard_russia/</loc>
+	
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://foodandcode.github.io//feed.xml</loc>
+	
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://foodandcode.github.io//humans.txt</loc>
+	
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://foodandcode.github.io//blog/</loc>
+	
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://foodandcode.github.io//</loc>
+	
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://foodandcode.github.io//kittens/</loc>
+	
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://foodandcode.github.io//orga/</loc>
+	
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://foodandcode.github.io//manifestro/</loc>
+	
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://foodandcode.github.io//redirect-page/</loc>
+	
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://foodandcode.github.io//robots.txt</loc>
+	
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://foodandcode.github.io//search/</loc>
+	
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://foodandcode.github.io//sitemap.xml</loc>
+	
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://foodandcode.github.io//team/</loc>
+	
+		<lastmod>2016-11-10T18:32:58+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
