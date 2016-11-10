@@ -28,7 +28,7 @@ author: roman
 
 #deployment: rm -rf /var/www/html/paper/ && bundle exec jekyll build && cp -r _site /var/www/html/paper
 
-url: 'http://shannon.ulb.ac.be/foodcode'
+url: 'http://www.foodcode.com'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -41,7 +41,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://shannon.ulb.ac.be/foodcode/images/'
+urlimg: 'http://www.foodcode.com/images/'
 
 
 # Logo size is 600x80 pixels

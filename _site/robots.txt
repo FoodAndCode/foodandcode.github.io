@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://shannon.ulb.ac.be/foodcode/sitemap.xml
+Sitemap: http://www.foodcode.com/sitemap.xml

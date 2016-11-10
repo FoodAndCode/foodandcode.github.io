@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 23 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 24 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
-	<loc>http://shannon.ulb.ac.be/foodcode/404.html</loc>
+	<loc>http://www.foodcode.com/404.html</loc>
 	
-		<lastmod>2016-11-10T18:08:19+01:00</lastmod>
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,9 +20,9 @@
 
 	
 	<url>
-	<loc>http://shannon.ulb.ac.be/foodcode/about/</loc>
+	<loc>http://www.foodcode.com/about/</loc>
 	
-		<lastmod>2016-11-10T18:08:19+01:00</lastmod>
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -35,26 +35,9 @@
 
 	
 	<url>
-	<loc>http://shannon.ulb.ac.be/foodcode/blog/archive/</loc>
+	<loc>http://www.foodcode.com/blog/archive/</loc>
 	
-		<lastmod>2016-11-10T18:08:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://shannon.ulb.ac.be/foodcode/atom.xml</loc>
-	
-		<lastmod>2016-11-10T18:08:19+01:00</lastmod>
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,193 +52,9 @@
 
 	
 	<url>
-	<loc>http://shannon.ulb.ac.be/foodcode/event/fc1_udon_process/</loc>
+	<loc>http://www.foodcode.com/atom.xml</loc>
 	
-		<lastmod>2016-11-10T18:08:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://shannon.ulb.ac.be/foodcode/event/fc2_okokokonomiyaki/</loc>
-	
-		<lastmod>2016-11-10T18:08:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://shannon.ulb.ac.be/foodcode/event/fc3_motherboard_russia/</loc>
-	
-		<lastmod>2016-11-10T18:08:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://shannon.ulb.ac.be/foodcode/feed.xml</loc>
-	
-		<lastmod>2016-11-10T18:08:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://shannon.ulb.ac.be/foodcode/humans.txt</loc>
-	
-		<lastmod>2016-11-10T18:08:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://shannon.ulb.ac.be/foodcode/blog/</loc>
-	
-		<lastmod>2016-11-10T18:08:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://shannon.ulb.ac.be/foodcode/</loc>
-	
-		<lastmod>2016-11-10T18:08:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://shannon.ulb.ac.be/foodcode/orga/</loc>
-	
-		<lastmod>2016-11-10T18:08:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://shannon.ulb.ac.be/foodcode/manifestro/</loc>
-	
-		<lastmod>2016-11-10T18:08:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://shannon.ulb.ac.be/foodcode/redirect-page/</loc>
-	
-		<lastmod>2016-11-10T18:08:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://shannon.ulb.ac.be/foodcode/robots.txt</loc>
-	
-		<lastmod>2016-11-10T18:08:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://shannon.ulb.ac.be/foodcode/search/</loc>
-	
-		<lastmod>2016-11-10T18:08:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://shannon.ulb.ac.be/foodcode/sitemap.xml</loc>
-	
-		<lastmod>2016-11-10T18:08:19+01:00</lastmod>
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -270,9 +69,225 @@
 
 	
 	<url>
-	<loc>http://shannon.ulb.ac.be/foodcode/team/</loc>
+	<loc>http://www.foodcode.com/event/fc1_udon_process/</loc>
 	
-		<lastmod>2016-11-10T18:08:19+01:00</lastmod>
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://www.foodcode.com/event/fc2_okokokonomiyaki/</loc>
+	
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://www.foodcode.com/event/fc3_motherboard_russia/</loc>
+	
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://www.foodcode.com/feed.xml</loc>
+	
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://www.foodcode.com/humans.txt</loc>
+	
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://www.foodcode.com/blog/</loc>
+	
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://www.foodcode.com/</loc>
+	
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://www.foodcode.com/kittens/</loc>
+	
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://www.foodcode.com/orga/</loc>
+	
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://www.foodcode.com/manifestro/</loc>
+	
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://www.foodcode.com/redirect-page/</loc>
+	
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://www.foodcode.com/robots.txt</loc>
+	
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://www.foodcode.com/search/</loc>
+	
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://www.foodcode.com/sitemap.xml</loc>
+	
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://www.foodcode.com/team/</loc>
+	
+		<lastmod>2016-11-10T18:30:52+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
