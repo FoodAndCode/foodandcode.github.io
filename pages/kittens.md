@@ -37,6 +37,6 @@ Timeline wise, here is how it goes (modulo variations for each event)
  *  19:30 => 21:00 - Exhibition, food & drinks
  *  21:00 => ??:?? - We add some Music (Live, DJ set...) & dancing to the Exhibition
 
-If you have anymore question and/or if you want to register to the workshop, please send us a mail at roman@opentechschool.org (or connect with us on <a href="https://www.facebook.com/foodandcode/">facebook</a>).
+If you have anymore question and/or if you want to register to the workshop, please send us a mail at roman@opentechschool.org & alicia.awkwardlab@gmail.com (or connect with us on <a href="https://www.facebook.com/foodandcode/">facebook</a>).
 
 Cheers!
