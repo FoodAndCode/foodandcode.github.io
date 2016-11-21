@@ -1,8 +1,8 @@
 ---
 layout: page
 #subheadline: Templates
-title:  "ManifesTroCool"
-teaser: "Because a simple Manifesto was not uptight enough."
+title:  "Curious of the Food&Code Workshop?"
+teaser: "You're in the right place."
 #breadcrumb: true
 
 header:
@@ -19,10 +19,7 @@ header:
 permalink: "/kittens/"
 ---
 
-## Curious of the Food&Code Workshop? ###
-### You're in the right place. ##
-
-TL;DR: Food&Code is a digital art hackathon with food as a favored (but not imposed) topic. Learn and create during the day. Expose in the evening what you just created.
+**TL;DR** Food&Code is a digital art hackathon with food as a favored (but not imposed) topic. Learn and create during the day. Expose in the evening what you just created.
 
 So yeah, Food&Code: workshop during the day then exhibition/party. If you're here, it means you're particularly interested in the workshop and my job now is to give you a bit more info. First of all, this workshops is about digital arts. Not the photoshop kind of digital art, the creative coding (programming) kind of digital arts, where you use your computer and its inner mechanism as your medium of expression. As topping, our main direction is food/cooking. Why food? Well, for numerous reasons better explained <a href="./manifestro.html">here</a>. In short, we aim at breaking the sacred vision of art, and the cold vision of code. Food as vector of cooking and eating embodies the idea of sharing, of improvisation, of messiness and unpredictable result. It's something fun to enjoy, no matter your skills in cooking or tasting. Creating should always be like that, no matter the medium in use.
 
