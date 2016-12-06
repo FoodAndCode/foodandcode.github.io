@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://foodandcode.github.io//assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="http://foodandcode.github.io//assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -37,13 +37,13 @@
 	
 	
 	
-	<link rel="canonical" href="http://foodandcode.github.io//assets/xslt/rss.xslt">
+	<link rel="canonical" href="http://localhost:4000/assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="Food&amp;Code is a digital art workshop and expo centered around food and cooking. Don&#39;t be afraid of being messy, we&#39;re here to clean.">
-	<meta property="og:url" content="http://foodandcode.github.io//assets/xslt/rss.xslt">
+	<meta property="og:url" content="http://localhost:4000/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Food&Code">
@@ -61,34 +61,34 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="http://foodandcode.github.io//humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="http://foodandcode.github.io//assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="http://foodandcode.github.io//assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://foodandcode.github.io//assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://foodandcode.github.io//assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://foodandcode.github.io//assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://foodandcode.github.io//assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://foodandcode.github.io//assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://foodandcode.github.io//assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://foodandcode.github.io//assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="http://foodandcode.github.io//assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="http://foodandcode.github.io//assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -103,7 +103,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://foodandcode.github.io/" class="icon-tree"> Food&Code</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> Food&Code</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -149,7 +149,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="http://foodandcode.github.io//orga/">Organising a F&amp;C</a></li>
+              <li><a href="http://localhost:4000/orga/">Organising a F&amp;C</a></li>
 
             
             
@@ -163,7 +163,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="http://foodandcode.github.io//team/">The F&amp;C Team</a></li>
+              <li><a href="http://localhost:4000/team/">The F&amp;C Team</a></li>
 
             
             
@@ -177,7 +177,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="http://foodandcode.github.io//about/">About/Contact</a></li>
+              <li><a href="http://localhost:4000/about/">About/Contact</a></li>
 
             
             
@@ -200,7 +200,7 @@
 
             
             
-              <li><a href="http://foodandcode.github.io//">Home</a></li>
+              <li><a href="http://localhost:4000/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -215,7 +215,7 @@
 
             
             
-              <li><a href="http://foodandcode.github.io//manifestro/">Our Aim</a></li>
+              <li><a href="http://localhost:4000/manifestro/">Our Aim</a></li>
               <li class="divider"></li>
 
             
@@ -232,24 +232,24 @@
             
 
               <li class="has-dropdown">
-                <a href="http://foodandcode.github.io/">Events</a>
+                <a href="http://localhost:4000">Events</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="http://foodandcode.github.io//event/fc1_udon_process">F&amp;C#1 - The Udon Process</a></li>
+                      <li><a href="http://localhost:4000/event/fc1_udon_process">F&amp;C#1 - The Udon Process</a></li>
                     
 
                       
 
-                      <li><a href="http://foodandcode.github.io//event/fc2_okokokonomiyaki/">F&amp;C#2 - Okokokonomiyaki</a></li>
+                      <li><a href="http://localhost:4000/event/fc2_okokokonomiyaki/">F&amp;C#2 - Okokokonomiyaki</a></li>
                     
 
                       
 
-                      <li><a href="http://foodandcode.github.io//event/fc3_motherboard_russia/">F&amp;C#3 - MotherBoard Russia</a></li>
+                      <li><a href="http://localhost:4000/event/fc3_motherboard_russia/">F&amp;C#3 - MotherBoard Russia</a></li>
                     
                   </ul>
 
@@ -287,8 +287,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://foodandcode.github.io/" title="Food&Code – slimy code for sticky art">
-				<img src="http://foodandcode.github.io//assets/img/logo.png" alt="Food&Code – slimy code for sticky art">
+			<a id="logo" href="http://localhost:4000" title="Food&Code – slimy code for sticky art">
+				<img src="http://localhost:4000/assets/img/logo.png" alt="Food&Code – slimy code for sticky art">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -367,7 +367,7 @@
 
             <p class="shadow-black">
               Food&Code is a digital art workshop and expo centered around food and cooking. Don't be afraid of being messy, we're here to clean.
-              <a href="http://foodandcode.github.io//tech/">More ›</a>
+              <a href="http://localhost:4000/tech/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -391,27 +391,27 @@
               
                 
                   <li >
-                    <a href="http://foodandcode.github.io/"  title=""></a>
+                    <a href="http://localhost:4000"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="http://foodandcode.github.io//contact/"  title="Contact">Contact</a>
+                    <a href="http://localhost:4000/contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://foodandcode.github.io//feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="http://localhost:4000/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://foodandcode.github.io//atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                    <a href="http://localhost:4000/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://foodandcode.github.io//sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="http://localhost:4000/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -433,7 +433,7 @@
             
               
                 <li >
-                  <a href="http://foodandcode.github.io/"  title=""></a>
+                  <a href="http://localhost:4000"  title=""></a>
                 </li>
             
               
@@ -480,7 +480,7 @@
 		
 
 
-<script src="http://foodandcode.github.io//assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
 
 
 

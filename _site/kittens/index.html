@@ -1,56 +1,515 @@
-<!-- Main -->
-	<div id="main" class="wrapper style1">
-		<div class="container">
-			<div class="row">
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Curious of the Food&amp;Code Workshop?</title>
 
-				<!-- Sidebar -->
-				<div id="sidebar" class="4u sidebar">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
 
-					<section>
-						<a href="#" class="image feature"><img src="/assets/images/kittens.jpg" alt=""></a>
-                        <p>
-                        Next time it's with you!
-                        </p>
-                    </section>
+  
 
-				</div>
+	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
 
-				<!-- Content -->
-				<div id="content" class="8u skel-cell-important">
-					<section>
-						<header class="major">
-							<h2>Curious of the Food&Code Workshop?</h2>
-							<span class="byline">You're in the right place.</span>
-						</header>
+	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+	<script>
+		WebFont.load({
+			google: {
+				families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
+			}
+		});
+	</script>
 
-					<p> TL;DR: Food&Code is a digital art hackathon with food as a favored (but not imposed) topic. Learn and create during the day. Expose in the evening what you just created.
-					</p>
-					
-					<p>
-					So yeah, Food&Code: workshop during the day then exhibition/party. If you're here, it means you're particularly interested in the workshop and my job now is to give you a bit more info. First of all, this workshops is about digital arts. Not the photoshop kind of digital art, the creative coding (programming) kind of digital arts, where you use your computer and its inner mechanism as your medium of expression. As topping, our main direction is food/cooking. Why food? Well, for numerous reasons better explained <a href="./manifestro.html">here</a>. In short, we aim at breaking the sacred vision of art, and the cold vision of code. Food as vector of cooking and eating embodies the idea of sharing, of improvisation, of messiness and unpredictable result. It's something fun to enjoy, no matter your skills in cooking or tasting. Creating should always be like that, no matter the medium in use.
-					</p>
-					
-					<p>
-					This means for instance that we don't have an entry level for your workshop. Utter beginners are welcomed and even our main target! The only requirement is a strong urge to create, to exprim one's self. A strong (even if quiet!) personality is a plus, as well as an artistic sensibility, but none is required (especially that you might have both without realizing it...).  You will be amazed at what you'll be able to create in the most undervalued unit of time: the day. In the morning we'll begin with an interactive and easy to follow home-made course where you'll get a feel of the basics of creative coding. Then in the afternoon, with the help of our loving coaches, you will be free to create your own project with the aim to showcase it in the evening exhibition.	
-					</p>
-					
-                    <p>So, someone must have given you this link, and now you're wondering about coming to our event. This website should be enough to give you a little idea of the spirit and what we try to aim. Let me just add one thing for now (yep, even this page is a work in progress...): we don't expect any kind of skills, we actually like to start from zero. The only requirement for our kittens are a strong desire to create, to express one's self. An artistic sensibility is a plus, but then again "artistic" sounds very pedantic. Let's say a personal view about the world. All the rest flows from there. Don't fret about the code and all the technicality, we're here to make that happens smoothly.</p>
+	<noscript>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
+	</noscript>
+
+
+	<!-- Search Engine Optimization -->
+	<meta name="description" content="You&#39;re in the right place.">
+  	
+	
+	
+	
+	
+	<link rel="canonical" href="http://localhost:4000/kittens/">
+
+
+	<!-- Facebook Open Graph -->
+	<meta property="og:title" content="Curious of the Food&amp;Code Workshop?">
+	<meta property="og:description" content="You&#39;re in the right place.">
+	<meta property="og:url" content="http://localhost:4000/kittens/">
+	<meta property="og:locale" content="en_EN">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Food&Code">
+	
+	<meta property="article:author" content="https://www.facebook.com/papertronics">
+
+
+	
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="papertronics">
+	<meta name="twitter:creator" content="papertronics">
+	<meta name="twitter:title" content="Curious of the Food&amp;Code Workshop?">
+	<meta name="twitter:description" content="You&#39;re in the right place.">
+	
+	
+
+	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
+
+	
+
+	
+
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png">
+
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png">
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png">	
+
+	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/msapplication_tileimage.png">
+
+	<meta name="msapplication-TileColor" content="#fabb00">
+
+
+	
+
+</head>
+<body id="top-of-page" class="">
+	
+	<div id="navigation" class="sticky">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name">
+      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> Food&Code</a></h1>
+    </li>
+       <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+      <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+
+      <ul class="right">
+            <ul class="social-icons">
+            
+              <a href="http://github.com/FoodAndCode" target="_blank" class="icon-github" title="Code, life and everything" style="float:left; margin:6px;"></a>
+            
+              <a href="https://twitter.com/foodandcode" target="_blank" class="icon-twitter" title="Come say hello on Twitter" style="float:left; margin:6px;"></a>
+            
+              <a href="http://www.facebook.com/foodandcode" target="_blank" class="icon-facebook" title="Stay up to date with our upcoming events" style="float:left; margin:6px;"></a>
+            
+              <a href="https://www.instagram.com/foodandcode/" target="_blank" class="icon-instagram" title="Pretty picture for pretty people" style="float:left; margin:6px;"></a>
+            
+            </ul>
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a href="http://localhost:4000/orga/">Organising a F&amp;C</a></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a href="http://localhost:4000/team/">The F&amp;C Team</a></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a href="http://localhost:4000/about/">About/Contact</a></li>
+
+            
+            
+          
+        
+        
+
+      </ul>
+
+
+
+
+      <ul class="left">
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/">Home</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/manifestro/">Our Aim</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a href="http://localhost:4000">Events</a>
+
+                  <ul class="dropdown">
                     
-                    <p>Timeline wise, here is how it goes (modulo variations for each event):</p>
-                    <ol>
-                    	<li>10:00 => 14:00 - Learning + brunch-ish.</li>
-                    	<li>14:00 => 19:00 - Creation.</li>
-                    	<li>19:00 => 19:30 - Instalation/Scenography.</li>
-                    	<li>19:30 => 21:00 - Exhibition, food & drinks.</li>
-                    	<li>21:00 => ??:?? - Music (Live, DJ set...) & dancing! (Exhibition, food and drinks still on).</li>
-                    </ol>
 
-                    <p>If you have anymore question and/or if you want to register to the workshop, please send us a mail at roman@opentechschool.org (or connect with us on <a href="https://www.facebook.com/foodandcode/">facebook</a>). Cheers!
-                    </p>
+                      
 
-					</section>
+                      <li><a href="http://localhost:4000/event/fc1_udon_process">F&amp;C#1 - The Udon Process</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/event/fc2_okokokonomiyaki/">F&amp;C#2 - Okokokonomiyaki</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/event/fc3_motherboard_russia/">F&amp;C#3 - MotherBoard Russia</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+        
+      </ul>
+    </section>
+  </nav>
+</div><!-- /#navigation -->
+
+	
+
+	
+
+<div id="masthead">
+	<div class="row">
+		<div class="small-12 columns">
+			<a id="logo" href="http://localhost:4000" title="Food&Code – slimy code for sticky art">
+				<img src="http://localhost:4000/assets/img/logo.png" alt="Food&Code – slimy code for sticky art">
+			</a>
+		</div><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+
+
+
+
+
+
+
+
+
+
+	<div class="row t30">
+	<div class="medium-8 columns medium-offset-2 end">
+		<article itemscope itemtype="http://schema.org/Article">
+			<header>
+				
+
+				<div itemprop="name">
+					
+					<h1>Curious of the Food&Code Workshop?</h1>
 				</div>
+			</header>
+
+
+			
+			<p class="teaser" itemprop="description">
+				You're in the right place.
+			</p>
+			
+
+			<div itemprop="articleSection">
+			<p><strong>TL;DR</strong> Food&amp;Code is a digital art hackathon with food as a favored (but not imposed) topic. Learn and create during the day. Expose in the evening what you just created.</p>
+
+<p>So yeah, Food&amp;Code: workshop during the day then exhibition/party. If you’re here, it means you’re particularly interested in the workshop and my job now is to give you a bit more info. First of all, this workshops is about digital arts. Not the photoshop kind of digital art, the creative coding (programming) kind of digital arts, where you use your computer and its inner mechanism as your medium of expression. As topping, our main direction is food/cooking. Why food? Well, for numerous reasons better explained <a href="./manifestro/">here</a>. In short, we aim at breaking the sacred vision of art, and the cold vision of code. Food as vector of cooking and eating embodies the idea of sharing, of improvisation, of messiness and unpredictable result. It’s something fun to enjoy, no matter your skills in cooking or tasting. Creating should always be like that, no matter the medium in use.</p>
+
+<p>This means for instance that we don’t have an entry level for your workshop. Utter beginners are welcomed and even our main target! The only requirement is a strong urge to create, to exprim one’s self. A strong (even if quiet!) personality is a plus, as well as an artistic sensibility, but none is required (especially that you might have both without realizing it…).  You will be amazed at what you’ll be able to create in the most undervalued unit of time: the day. In the morning we’ll begin with an interactive and easy to follow home-made course where you’ll get a feel of the basics of creative coding. Then in the afternoon, with the help of our loving coaches, you will be free to create your own project with the aim to showcase it in the evening exhibition.</p>
+
+<p>So, someone must have given you this link, and now you’re wondering about coming to our event. This website should be enough to give you a little idea of the spirit and what we try to aim. Let me just add one thing for now (yep, even this page is a work in progress…): we don’t expect any kind of skills, we actually like to start from zero. The only requirement for our kittens are a strong desire to create, to express one’s self. An artistic sensibility is a plus, but then again “artistic” sounds very pedantic. Let’s say a personal view about the world. All the rest flows from there. Don’t fret about the code and all the technicality, we’re here to make that happens smoothly.</p>
+
+<p>Timeline wise, here is how it goes (modulo variations for each event)</p>
+
+<ul>
+  <li>9:00 =&gt; 12:30 - Discovery, learning and inspiration</li>
+  <li>12:30 =&gt; 14:00 - Cooking, eating, breathing, brainstorming</li>
+  <li>14:00 =&gt; 19:00 - Creation</li>
+  <li>19:00 =&gt; 19:30 - Finishing instalation of projects</li>
+  <li>19:30 =&gt; 21:00 - Exhibition, food &amp; drinks</li>
+  <li>21:00 =&gt; ??:?? - We add some Music (Live, DJ set…) &amp; dancing to the Exhibition</li>
+</ul>
+
+<p>If you have anymore question and/or if you want to register to the workshop, please send us a mail at roman@opentechschool.org &amp; alicia.awkwardlab@gmail.com (or connect with us on <a href="https://www.facebook.com/foodandcode/">facebook</a>).</p>
+
+<p>Cheers!</p>
 
 			</div>
-		</div>
-	</div>
+
+			
+
+			
+		</article>
+	</div><!-- /.medium-8.columns -->
+
+
+	
+
+
+	
+</div><!-- /.row -->
+
+
+	
+	    <div id="up-to-top" class="row">
+      <div class="small-12 columns" style="text-align: right;">
+        <a class="iconfont" href="#top-of-page">&#xf108;</a>
+      </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+
+    <footer id="footer-content" class="bg-grau">
+      <div id="footer">
+        <div class="row">
+          <div class="medium-6 large-5 columns">
+            <h5 class="shadow-black">About This Site</h5>
+
+            <p class="shadow-black">
+              Food&Code is a digital art workshop and expo centered around food and cooking. Don't be afraid of being messy, we're here to clean.
+              <a href="http://localhost:4000/tech/">More ›</a>
+            </p>
+          </div><!-- /.large-6.columns -->
+
+
+          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+            
+              
+                <h5 class="shadow-black">Services</h5>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+
+              <ul class="no-bullet shadow-black">
+              
+                
+                  <li >
+                    <a href="http://localhost:4000"  title=""></a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="http://localhost:4000/contact/"  title="Contact">Contact</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="http://localhost:4000/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="http://localhost:4000/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="http://localhost:4000/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                  </li>
+              
+              </ul>
+          </div><!-- /.large-4.columns -->
+
+
+          <div class="small-6 medium-3 large-3 columns">
+            
+              
+                <h5 class="shadow-black">From the team</h5>
+              
+            
+              
+            
+              
+            
+
+            <ul class="no-bullet shadow-black">
+            
+              
+                <li >
+                  <a href="http://localhost:4000"  title=""></a>
+                </li>
+            
+              
+                <li class="network-entypo" >
+                  <a href="https://www.instagram.com/aliciamarch/" target="_blank"  title="Alicia Veron">Alicia Veron</a>
+                </li>
+            
+              
+                <li class="services-newsletter" >
+                  <a href="http://www.aporagen.com/" target="_blank"  title="Roman Miletitch">Roman Miletitch</a>
+                </li>
+            
+            </ul>
+          </div><!-- /.large-3.columns -->
+        </div><!-- /.row -->
+
+      </div><!-- /#footer -->
+
+
+      <div id="subfooter">
+        <nav class="row">
+          <section id="subfooter-left" class="small-12 medium-6 columns credits">
+            <p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+          </section>
+
+ <!--         <section id="subfooter-right" class="small-12 medium-6 columns">
+            <ul class="inline-list social-icons">
+            
+              <li><a href="http://github.com/FoodAndCode" target="_blank" class="icon-github" title="Code, life and everything"></a></li>
+            
+              <li><a href="https://twitter.com/foodandcode" target="_blank" class="icon-twitter" title="Come say hello on Twitter"></a></li>
+            
+              <li><a href="http://www.facebook.com/foodandcode" target="_blank" class="icon-facebook" title="Stay up to date with our upcoming events"></a></li>
+            
+              <li><a href="https://www.instagram.com/foodandcode/" target="_blank" class="icon-instagram" title="Pretty picture for pretty people"></a></li>
+            
+            </ul>
+          </section>
+ -->
+        </nav>
+      </div><!-- /#subfooter -->
+    </footer>
+
+	
+
+	
+
+
+<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
+
+
+
+<script>
+    $("#masthead").backstretch("http://localhost:4000/images/header_ouraim.jpg", {fade: 700});
+    $("#masthead-with-text").backstretch("http://localhost:4000/images/header_ouraim.jpg", {fade: 700});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
