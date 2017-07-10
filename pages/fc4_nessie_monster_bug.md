@@ -2,7 +2,7 @@
 layout: page-fullwidth
 #subheadline: Templates
 title:  "Nessie, Monster Bug! - Brussels, 2016"
-teaser: "Scottish glitches, all at board!"
+teaser: "Scottish glitches, all on board!"
 #breadcrumb: true
 
 header:
